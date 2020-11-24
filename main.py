@@ -1,3 +1,8 @@
+"""
+@author Devansh
+This is a notebook app created by tkinter
+"""
+
 import tkinter 
 import os	 
 from tkinter import *
